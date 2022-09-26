@@ -8,4 +8,4 @@
 
 :india: I'm based in Pune, INDIA.
 
-:man_technologist: Love to code and learn new tech for fun
+:man_technologist: Love to code and learn new tech for fun.
