@@ -9,3 +9,5 @@
 :india: I'm based in Pune, INDIA.
 
 :man_technologist: Love to code and learn new tech for fun.
+
+:bike: I love riding my bike RE_Himalayan
