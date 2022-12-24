@@ -9,7 +9,7 @@
    2. Git & GitHub :heavy_check_mark:
    3. HTML/CSS :heavy_check_mark:
    4. Agile Methodologies :heavy_check_mark:
-   5. MySQL :construction:
+   5. MySQL :heavy_check_mark:
    6. Django :heavy_check_mark:
    
 :writing_hand: I'm currently working on the Project: Break Management Software(BMS)
